@@ -1,6 +1,10 @@
 ![image](https://github.com/meryemkolbasar/Hesap-Makinesi/blob/8064121dadfbec2579000084df7bcb9c4e3915b2/Hesap%20Makinesi%2001.png)
 <h2> Calculator </h2>
 
+_This project aims to create a basic calculator that performs fundamental mathematical operations.
+The calculator allows users to easily perform addition, subtraction, multiplication, and division operations.
+The project is suitable for beginner-level programmers and presents a great opportunity to enhance your basic programming skills._
+
 ## Contributing
 
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/HASN.gif">
